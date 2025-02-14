@@ -56,7 +56,7 @@ const Footer = () => {
               <br />
               <div className="flex items-center gap-3 ">
                 <FaLocationArrow />
-                <p>Noida, Uttar Pradesh</p>
+                <p>Indore, Madhya Pradesh</p>
               </div>
               <div className="flex items-center gap-3 mt-3">
                 <FaMobileAlt />
@@ -141,8 +141,8 @@ const Footer = () => {
             </div>
           </div>
           <div>
-            <div className="text-center py-5 border-t-2 border-gray-300/50 bg-primary text-white">
-              @copyright 2024 All rights reserved || Made with ❤️ by Dilshad
+            <div className="text-center py-5 border-t-2 border-gray-300/50 bg-primary rounded-b-xl text-white">
+               &copy; 2024 All rights reserved || Made by Utkarsh Sharma
             </div>
           </div>
         </div>
